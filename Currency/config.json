@@ -1,0 +1,13 @@
+{
+  "PREFIX": ".",
+  "mongo_atlas": {
+      "username": "Discord_Bot",
+      "password": "unknownx1234",
+      "cluster": "Bot",
+      "shard": {
+          "one": "bot-shard-00-00.qdobo.mongodb.net:27017",
+        "two": "bot-shard-00-01.qdobo.mongodb.net:27017",
+        "three": "bot-shard-00-02.qdobo.mongodb.net:27017"
+    }
+  }
+}
